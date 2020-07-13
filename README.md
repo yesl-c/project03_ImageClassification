@@ -1,4 +1,4 @@
-# image_project
+# Image Classification
 
 ---
 ## 국가별 랜드마크 이미지 분류 모델 생성
