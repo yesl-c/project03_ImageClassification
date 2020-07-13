@@ -1,5 +1,5 @@
 # Image Classification
-Creating a landmark classification model for ezch country using the CNN model
+Creating a landmark classification model for ezch country using the **CNN model**
 
 ---
 ## 국가별 랜드마크 이미지 분류 모델 생성
