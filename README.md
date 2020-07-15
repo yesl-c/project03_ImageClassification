@@ -45,6 +45,7 @@ Creating a landmark classification model for ezch country using the **CNN**
    * metrics : accuracy
 
 ### (3) 모델 학습 및 평가
+표 
 - Train
    * batch_size=128
    * epochs=140
