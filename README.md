@@ -63,11 +63,11 @@ Creating a landmark classification model for ezch country using the **CNN**
 | try_12       | 2.2183 | 0.6775   | 7           | 256        | 30    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
 | try_13       | 4.8315 | 0.7299   | 7           | 128        | 300   | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
 | try_14       | 2.173  | 0.6893   | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
-| try_15       | 1.799  | 0.72     | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
-| try_16       | 1.8641 | 0.7103   | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
+| try_15(=14)       | 1.799  | 0.72     | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
+| try_16(=14)       | 1.8641 | **0.7103**   | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
 | try_16(top3) | 2.3362 | 0.9703   | 7           | 128        | 50    | 32        | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
 | try_17(VGG)  | 10.6   | 0.4336   | 13          | 128        | 50    | 32        | (64,3,3)   | Relu                  | (2,2)         | -       | Relu                  | adam                    |
 | try_18(VGG)  | 5.823  | 0.4435   | 13          | 128        | 50    | 32        | (64,3,3)   | Relu                  | (2,2)         | 0.25    | Relu                  | adam                    |
-| try_23       | 2.1555 | 0.8553   | 7           | 128        | 140   | 128       | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
+| try_23       | 2.1555 | **0.8553**   | 7           | 128        | 140   | 128       | (32,3,3)   | LeakyRelu(alpha=0.01) | (2,2)         | 0.25    | LeakyRelu(alpha=0.01) | adam                    |
    
 
